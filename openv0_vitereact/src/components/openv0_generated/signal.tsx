@@ -1,0 +1,1 @@
+export const signal = 'B9LBwXRwqX';
